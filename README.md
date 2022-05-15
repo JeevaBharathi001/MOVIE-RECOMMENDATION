@@ -1,4 +1,4 @@
-# movie-ticket
+# movie-recommendation system
 The project is all about how Machine Learning algorithm recommend what is the next movie that you might want to watch by using the Recommender System. This approach not only can be implemented for movie contents, but also for other digital objects chosen distinctively for each user, for instance, books, web pages, music, messages, products, dating preference, and of course, movies that have been widely executed by several companies to improve their customer experience within their digital platforms.
 
 There are three types of recommender systems that will be implemented in this project, which are:
